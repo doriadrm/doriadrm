@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Data Scientist | Machine Learning Engineer | Freelancer</h3>  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Doria-username&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=doriadrm&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -28,17 +28,16 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Doria-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=doriadrm&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>  
 
 ---
 
 ### 🌎 Connect with Me  
-📧 **Email:** [your-email@example.com](mailto:your-email@example.com)  
-💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile/)  
-🚀 **GitHub:** [github.com/Doria-username](https://github.com/Doria-username)  
+📧 **Email:** [doria.deramchi@outlook.fr]  
+💼 **LinkedIn:** [https://www.linkedin.com/in/doria-deramchi-6b70781b7/]  
+🚀 **GitHub:** [https://github.com/doriadrm] 
 
 ---
 
 ✨ **"Turning data into meaningful insights!"** 🚀  
-
