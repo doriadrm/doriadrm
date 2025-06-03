@@ -26,13 +26,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=doriadrm&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>  
-
----
-
 ### 🌎 Connect with Me  
 📧 **Email:** [doria.deramchi@outlook.fr]  
 💼 **LinkedIn:** [https://www.linkedin.com/in/doria-deramchi-6b70781b7/]  
