@@ -9,13 +9,13 @@
 
 ### About
 
-M.Sc. in Digital & Software Engineering from **EFREI Paris**, specialising in Big Data & Machine Learning. My work sits at the intersection of computer vision, applied ML, and systems engineering,from deploying real-time object detection on edge AR devices to building satellite image segmentation pipelines for agricultural land-cover analysis.
+Engineering Degree from **EFREI Paris**, specialising in Big Data & Machine Learning. My work sits at the intersection of computer vision, applied ML, and systems engineering,from deploying real-time object detection on edge AR devices to building satellite image segmentation pipelines for agricultural land-cover analysis. Currently operating as an independent consultant, I design and implement end-to-end automation architectures and data pipelines; integrating n8n, Make, and Python to orchestrate business processes, API workflows, and structured data flows at scale.
 
 ---
 
 ### Work
 
-- **Computer Vision on HoloLens 2** — Real-time YOLOv5 asset detection for industrial maintenance (ENEDIS), deployed on-device with ONNX + edge quantisation. Unity/C# holographic interface with spatial anchoring and voice I/O.
+- **Computer Vision on HoloLens 2** — Real-time YOLOv5 asset detection for industrial maintenance. Unity/C# holographic interface with spatial anchoring and voice I/O.
 - **Satellite Semantic Segmentation** — Multi-temporal dataset construction and ResNet-based segmentation model (RoboSat) for vineyard and orchard classification over the Rhône region.
 - **Resume Analyser** — Live NLP application: [huggingface.co/spaces/doriadrm/resume-analyzer](https://huggingface.co/spaces/doriadrm/resume-analyzer)
 - **Automation workflows**
@@ -27,15 +27,17 @@ M.Sc. in Digital & Software Engineering from **EFREI Paris**, specialising in Bi
 
 | Domain | Tools |
 |---|---|
-| Computer Vision | YOLOv5, OpenCV, ONNX, RoboSat |
-| Deep Learning | PyTorch, Scikit-learn, Sentence Transformers |
+| Computer Vision | YOLOv5, OpenCV, RoboSat |
+| Deep Learning | PyTorch, TensorFlow, Scikit-learn, Sentence Transformers |
+| Data & ML | Pandas, NumPy, Scikit-learn |
+| LLMs & Generative AI | LangChain, Hugging Face, RAG, Llama, GPT APIs |
 | AR / XR | HoloLens 2, Unity (C#), MRTK |
 | Cloud | AWS (EC2, S3), Docker |
 | Automation | n8n, Make, HubSpot |
-| Languages | Python, C#, Java, SQL |
+| Languages | Python, React, React Native, C#, SQL |
 
 ---
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/doria-deramchi-6b70781b7/) · [doria.deramchi@outlook.fr](mailto:doria.deramchi@outlook.fr)
+[LinkedIn](www.linkedin.com/in/doria-deramchi-data-scientist) · [doria.deramchi@outlook.fr](mailto:doria.deramchi@outlook.fr)
