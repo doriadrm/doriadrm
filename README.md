@@ -19,6 +19,7 @@ M.Sc. in Digital & Software Engineering from **EFREI Paris**, specialising in Bi
 - **Satellite Semantic Segmentation** — Multi-temporal dataset construction and ResNet-based segmentation model (RoboSat) for vineyard and orchard classification over the Rhône region.
 - **Resume Analyser** — Live NLP application: [huggingface.co/spaces/doriadrm/resume-analyzer](https://huggingface.co/spaces/doriadrm/resume-analyzer)
 - **Automation workflows**
+- **Web Scraping **
 
 ---
 
@@ -31,7 +32,7 @@ M.Sc. in Digital & Software Engineering from **EFREI Paris**, specialising in Bi
 | AR / XR | HoloLens 2, Unity (C#), MRTK |
 | Cloud | AWS (EC2, S3), Docker |
 | Automation | n8n, Make, HubSpot |
-| Languages | Python, C#, SQL |
+| Languages | Python, C#, Java, SQL |
 
 ---
 
