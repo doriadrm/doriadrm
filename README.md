@@ -9,9 +9,7 @@
 
 ### About
 
-M.Sc. in Digital & Software Engineering from **EFREI Paris**, specialising in Big Data & Machine Learning. My work sits at the intersection of computer vision, applied ML, and systems engineering — from deploying real-time object detection on edge AR devices to building satellite image segmentation pipelines for agricultural land-cover analysis.
-
-Most of my significant R&D work was conducted under NDA at **EDF Lab Paris-Saclay** and **EIFER Karlsruhe**.
+M.Sc. in Digital & Software Engineering from **EFREI Paris**, specialising in Big Data & Machine Learning. My work sits at the intersection of computer vision, applied ML, and systems engineering,from deploying real-time object detection on edge AR devices to building satellite image segmentation pipelines for agricultural land-cover analysis.
 
 ---
 
