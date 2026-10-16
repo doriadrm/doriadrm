@@ -12,7 +12,7 @@
 
 ---
 
-### 🛰️ About me
+### About me
 
 I'm a **PhD researcher at the University of Technology Malaysia**, working on AI for maritime target classification from radar signals. I hold an engineering degree from **EFREI Paris** (Big Data & Machine Learning).
 
@@ -22,7 +22,7 @@ I'm open to **research collaborations** and conversations about R&D in radar and
 
 ---
 
-### 🔭 What I've built
+### What I've built
 
 | Project | What it does |
 |---|---|
@@ -35,7 +35,7 @@ I'm open to **research collaborations** and conversations about R&D in radar and
 
 ---
 
-### 🧰 Stack
+### Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,unity,cs,react,docker,aws,azure,linux,mysql,mongodb&perline=7&theme=dark" alt="Tech stack" />
