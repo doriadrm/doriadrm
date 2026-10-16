@@ -1,43 +1,59 @@
-<h1 align="center">Doria Deramchi</h1>
-<h3 align="center">Data Scientist · Computer Vision · Applied ML</h3>
+<h1 align="center">hi, I'm Doria 👾</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=doriadrm&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=B79BFF&center=true&vCenter=true&width=640&lines=PhD+researcher+in+AI+for+radar+signals;Signal+processing+%C2%B7+Computer+vision+%C2%B7+Applied+ML;From+raw+sensor+bytes+to+trained+models" alt="Typing intro" />
+</p>
+
+<p align="center">
+  <a href="https://doriadrm.github.io"><img src="https://img.shields.io/badge/portfolio-doriadrm.github.io-7E5CE6?style=flat-square" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/doria-deramchi-data-scientist"><img src="https://img.shields.io/badge/LinkedIn-Doria%20Deramchi-7E5CE6?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:doria@graduate.utm.my"><img src="https://img.shields.io/badge/email-doria%40graduate.utm.my-7E5CE6?style=flat-square&logo=maildotru&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-### About
+### 🛰️ About me
 
-Engineering Degree from **EFREI Paris**, specialising in Big Data & Machine Learning. My work sits at the intersection of computer vision, applied ML, and systems engineering,from deploying real-time object detection on edge AR devices to building satellite image segmentation pipelines for agricultural land-cover analysis. Currently operating as an independent consultant, I design and implement end-to-end automation architectures and data pipelines; integrating n8n, Make, and Python to orchestrate business processes, API workflows, and structured data flows at scale.
+I'm a **PhD researcher at the University of Technology Malaysia**, working on AI for maritime target classification from radar signals. I hold an engineering degree from **EFREI Paris** (Big Data & Machine Learning).
 
----
+I like working on the whole chain: decoding raw sensor data, cleaning the signal, and training the model at the end of it. Before my PhD, I built computer vision and AR systems at **EDF Lab** and **EIFER**.
 
-### Work
-
-- **Computer Vision on HoloLens 2** — Real-time YOLOv5 asset detection for industrial maintenance. Unity/C# holographic interface with spatial anchoring and voice I/O.
-- **Satellite Semantic Segmentation** — Multi-temporal dataset construction and ResNet-based segmentation model (RoboSat) for vineyard and orchard classification over the Rhône region.
-- **Resume Analyser** — Live NLP application: [huggingface.co/spaces/doriadrm/resume-analyzer](https://huggingface.co/spaces/doriadrm/resume-analyzer)
-- **Automation workflows**
-- **Web Scraping**
+I'm open to **research collaborations** and conversations about R&D in radar and applied AI.
 
 ---
 
-### Stack
+### 🔭 What I've built
+
+| Project | What it does |
+|---|---|
+| **Radar data decoder** | Python tooling that turns raw captures from a marine radar into signals you can analyse and visualise. *(PhD, ongoing)* |
+| **AR maintenance assistant** | Real-time YOLOv5 asset detection on HoloLens 2 for industrial maintenance, with a Unity/C# holographic interface, spatial anchoring and voice I/O. Tested with 20 technicians on 2 sites. *(EDF Lab)* |
+| **Satellite crop segmentation** | Multi-temporal satellite dataset and ResNet-based segmentation (RoboSat) for vineyard and orchard classification in the Rhône region. *(EIFER)* |
+| **Resume Analyser** | Live NLP app for analysing resumes → [try it on Hugging Face](https://huggingface.co/spaces/doriadrm/resume-analyzer) |
+| **Mobile app** | A React Native app built for a freelance client. |
+| **Automation pipelines** | n8n and Make workflows for lead data, web scraping and automated emails across HubSpot and other APIs. |
+
+---
+
+### 🧰 Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,unity,cs,react,docker,aws,azure,linux,mysql,mongodb&perline=7&theme=dark" alt="Tech stack" />
+</p>
 
 | Domain | Tools |
 |---|---|
-| Computer Vision | YOLOv5, OpenCV, RoboSat |
-| Deep Learning | PyTorch, TensorFlow, Scikit-learn, Sentence Transformers |
-| Data & ML | Pandas, NumPy, Scikit-learn |
-| LLMs & Generative AI | LangChain, Hugging Face, RAG, Llama, GPT APIs |
+| Signal processing | FMCW, FFT range profiling, HRRP, NumPy |
+| Computer vision | YOLOv5, OpenCV, RoboSat, U-Net |
+| Deep learning | PyTorch, TensorFlow, Scikit-learn, Sentence Transformers |
+| LLMs & GenAI | LangChain, Hugging Face, RAG, Llama, GPT APIs |
 | AR / XR | HoloLens 2, Unity (C#), MRTK |
-| Cloud | AWS (EC2, S3), Docker |
+| Cloud & DevOps | AWS (EC2, S3), Azure, Docker, Linux |
 | Automation | n8n, Make, HubSpot |
-| Languages | Python, React, React Native, C#, SQL |
+| Languages | Python, C#, SQL, React, React Native |
 
 ---
 
-### Contact
-
-[LinkedIn](www.linkedin.com/in/doria-deramchi-data-scientist) · [doria.deramchi@outlook.fr](mailto:doria.deramchi@outlook.fr)
+<p align="center">
+  <sub>French (native) · Arabic (bilingual) · English (fluent) · Chinese (beginner)</sub>
+</p>
